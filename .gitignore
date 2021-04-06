@@ -1,0 +1,6 @@
+.terraform
+variable_use.txt
+aaa.txt
+teste/
+terraform.tfstate
+terraform.tfstate.backup
