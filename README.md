@@ -18,5 +18,5 @@ TF_VAR_mysql_password=(PASSWORD BANCO),
 
 TF_VAR_mysql_password_root=(PASSWORD ROOT BANCO)
 
-
+teste
 
